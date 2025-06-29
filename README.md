@@ -1,4 +1,4 @@
-# �� WaruCodeRoast
+# WaruCodeRoast
 
 GPTを使ったコードレビューを面白く批判するCLIツール！時には残酷に正直で面白いコードレビューが必要ですよね。
 
@@ -10,7 +10,7 @@ GPTを使ったコードレビューを面白く批判するCLIツール！時�
 - **建設的批判**: 面白いが実際に役立つフィードバック
 - **多言語対応**: Python、JavaScript、TypeScript、Java、C++などに対応！
 
-## 🚀 クイックスタート
+## クイックスタート
 
 ### 1. 依存関係をインストール
 
@@ -126,7 +126,7 @@ python waru_roast.py roast-dir ./project/ --persona comedian
 python waru_roast.py roast-dir ./src/ --extensions py,go
 ```
 
-## 🎨 出力例
+## 出力例
 
 ```
 🔥 WaruCodeRoastへようこそ 🔥
@@ -164,7 +164,7 @@ python waru_roast.py roast-dir ./src/ --extensions py,go
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🤝 貢献
+## 貢献
 
 より多くの批判ペルソナや機能を追加したいですか？ぜひ貢献してください！
 
@@ -173,7 +173,7 @@ python waru_roast.py roast-dir ./src/ --extensions py,go
 3. 改善を追加
 4. プルリクエストを送信
 
-## 📄 ライセンス
+## ライセンス
 
 このプロジェクトはMITライセンスの下でライセンスされています - 詳細はLICENSEファイルを参照してください。
 
