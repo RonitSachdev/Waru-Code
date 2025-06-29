@@ -1,0 +1,6 @@
+openai>=1.0.0
+click>=8.0.0
+rich>=13.0.0
+pygments>=2.15.0
+python-dotenv>=1.0.0
+pathlib2>=2.3.7 
